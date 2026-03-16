@@ -24,7 +24,7 @@ MSG = f"""
 **Ultroid - UserBot**
 ➖➖➖➖➖➖➖➖➖➖
 **Owner**: [{OWNER}](tg://user?id={ultroid_bot.uid})
-**Support**: @TeamUltroid
+**Support**: @Ceo_Iyan
 ➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -34,7 +34,7 @@ IN_BTTS = [
             "Repository",
             url="https://github.com/TeamUltroid/Ultroid",
         ),
-        Button.url("Support", url="https://t.me/UltroidSupportChat"),
+        Button.url("Support", url="https://t.me/Ceo_Iyan"),
     ]
 ]
 
